@@ -1,5 +1,3 @@
-# Privacy Policy for ResuMateAI Bot
-
 **Last Updated:** May 1, 2026
 
 ResuMateAI ("we," "our," or "us") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we handle the information you provide when using the ResuMateAI Telegram Bot.
